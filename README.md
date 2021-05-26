@@ -7,7 +7,7 @@
   <p>Done is better than perfect. 🤜🏻🤛🏻</p>
   <p>
     <a href="https://github.com/mrgeneralgoo">
-      <img src="https://github-readme-stats.vercel.app/api?username=mrgeneralgoo&show_icons=true&theme=graywhite" />
+      <img src="https://github-readme-stats.vercel.app/api?username=mrgeneralgoo&show_icons=true&theme=graywhite&count_private=true" />
     </a>
   </p>
     <a href="https://github.com/mrgeneralgoo/typecho-markdown">
